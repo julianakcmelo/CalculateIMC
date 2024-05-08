@@ -1,6 +1,6 @@
 <div align="center">
   
-# Calculate IMC <br>
+# Cálculo de IMC <br>
 
 </div>
 
